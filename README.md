@@ -1,2 +1,21 @@
-## Getting Started
+## Getting Started (in Windows)
+### Installing python and tensorflow package
+1. Install the latest 64-bit version of python. When installing, select the option to add python and pip to PATH.<br>[python-3.6.4-amd64.exe](https://www.python.org/downloads/release/python-364/)
+2. Open a Command Prompt, and install the tensorflow package<br>
+`pip3 install --upgrade tensorflow`
 
+### Validating Install
+1. Invoke python from a Command Prompt<br>
+`python`
+2. Enter the following short program inside the python interactive shell
+```
+import tensorflow as tf
+hello = tf.constant('Hello, TensorFlow!')
+sess = tf.Session()
+print(sess.run(hello))
+```
+3. If the system outputs the following, then you are ready to begin writing TensorFlow programs:<br>
+`Hello, TensorFlow!`
+
+## Short Demo (TensorFlow For Poets)
+[https://codelabs.developers.google.com/codelabs/tensorflow-for-poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets)
