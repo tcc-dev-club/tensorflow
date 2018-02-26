@@ -1,3 +1,6 @@
+## Introduction to Machine Learning
+[![How Machines Learn](https://i.ytimg.com/vi/R9OHn5ZF4Uo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhawh-kkvwCIxcM7ig24ZdO3nGGg)](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
+
 ## Getting Started (in Windows)
 ### Installing python and tensorflow package
 1. Install the latest 64-bit version of python. When installing, select the option to add python and pip to PATH.<br>[python-3.6.4-amd64.exe](https://www.python.org/downloads/release/python-364/)
