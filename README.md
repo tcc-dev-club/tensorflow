@@ -3,7 +3,9 @@
 
 ## Installing Python and TensorFlow Package
 1. Install the latest 64-bit version of python.
->NOTE: When installing, select the option to add python and pip to PATH.<br>[python-3.6.4-amd64.exe](https://www.python.org/downloads/release/python-364/)
+>NOTE: When installing, select the option to add python and pip to PATH.
+
+[python-3.6.4-amd64.exe](https://www.python.org/downloads/release/python-364/)<br>
 2. Open a Command Prompt, and install the tensorflow package<br>
 `pip3 install --upgrade tensorflow`
 
