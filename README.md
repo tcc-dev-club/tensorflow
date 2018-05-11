@@ -1,6 +1,9 @@
 ## Introduction to Machine Learning
 [![How Machines Learn](https://i.ytimg.com/vi/R9OHn5ZF4Uo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhawh-kkvwCIxcM7ig24ZdO3nGGg)](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
 
+## TensorFlow Android Camera Demo
+1. [https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
+
 ## Installing Python and TensorFlow Package
 1. Install the latest 64-bit version of python.<br>[python-3.6.4-amd64.exe](https://www.python.org/downloads/release/python-364/)<br>
 >**NOTE:** When installing, select the option to add python and pip to PATH.
